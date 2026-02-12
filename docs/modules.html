@@ -313,14 +313,20 @@
     <style>
         .module-card {
             background: white;
-            border-radius: 10px;
-            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+            border-radius: 1rem;
+            border: 2px solid #e5e7eb;
             margin-bottom: 2rem;
             overflow: hidden;
+            transition: all 0.3s ease;
+        }
+
+        .module-card:hover {
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
+            border-color: #667eea;
         }
 
         .module-header {
-            background: linear-gradient(135deg, #0000ff 0%, #0000cc 100%);
+            background: var(--gradient-primary);
             color: white;
             padding: 1.5rem 2rem;
             display: flex;
@@ -329,11 +335,13 @@
         }
 
         .module-number {
-            background: rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.25);
+            backdrop-filter: blur(10px);
             padding: 0.5rem 1rem;
             border-radius: 50px;
             font-weight: bold;
             font-size: 0.9rem;
+            border: 1px solid rgba(255, 255, 255, 0.3);
         }
 
         .module-header h3 {
@@ -346,9 +354,10 @@
         }
 
         .module-content h4 {
-            color: #0000ff;
+            color: #1f2937;
             margin-top: 1.5rem;
             margin-bottom: 0.75rem;
+            font-weight: 700;
         }
 
         .module-content h4:first-child {
@@ -368,16 +377,20 @@
         .btn-sm {
             padding: 0.75rem 1.5rem;
             font-size: 0.9rem;
+            border-radius: 0.75rem;
         }
 
         .section .btn-secondary {
-            background: #0000ff;
+            background: #2563eb;
             color: white;
             border: none;
+            transition: all 0.3s ease;
         }
 
         .section .btn-secondary:hover {
-            background: #0000cc;
+            background: #1e40af;
+            transform: translateY(-2px);
+            box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1);
             color: white;
         }
     </style>
