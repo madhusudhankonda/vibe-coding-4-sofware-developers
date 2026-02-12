@@ -34,8 +34,11 @@ This course is designed for:
 
 ## 🔗 Resources
 
+- **Course Website**: [View Live Site](https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/)
 - **Website**: [chocolateminds.com/ai](https://chocolateminds.com/ai)
 - **Repository**: [GitHub](https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers)
+
+> 🌐 **New!** Check out our beautiful course website with enrollment options!
 
 ---
 
@@ -133,6 +136,12 @@ This course is designed for:
 ## 📂 Repository Structure
 
 ```
+├── docs/                            # 🌐 GitHub Pages Website
+│   ├── index.html                   # Landing page with pricing
+│   ├── modules.html                 # Module details
+│   ├── success.html                 # Post-enrollment page
+│   ├── SETUP_GUIDE.md              # Website & Stripe setup
+│   └── assets/                      # CSS, JS, images
 ├── module-01-introduction/          # Introduction to AI-Powered Development
 ├── module-02-ai-coding-tools/       # AI Coding Tools
 ├── module-03-vibe-techniques/       # Vibe Coding Techniques

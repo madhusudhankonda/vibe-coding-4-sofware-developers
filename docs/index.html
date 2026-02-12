@@ -1,0 +1,311 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="AI 101: Vibe Coding for Software Developers - Learn AI-powered coding with Madhusudhan Konda">
+    <title>AI 101: Vibe Coding for Software Developers</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://js.stripe.com/v3/"></script>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h2>⚡ AI 101</h2>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#about">About</a></li>
+                <li><a href="#curriculum">Curriculum</a></li>
+                <li><a href="#pricing">Pricing</a></li>
+                <li><a href="modules.html">Modules</a></li>
+                <li><a href="#contact">Contact</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">AI 101: Vibe Coding for Software Developers</h1>
+                <p class="hero-subtitle">Master AI-Powered Coding with Modern Tools and Agents</p>
+                <p class="hero-instructor">By <strong>Madhusudhan Konda</strong></p>
+                <div class="hero-details">
+                    <div class="detail-item">
+                        <span class="icon">📅</span>
+                        <span>21st Feb 2026</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="icon">⏰</span>
+                        <span>10:00-12:00 PM GMT</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="icon">🎯</span>
+                        <span>Hands-On Learning</span>
+                    </div>
+                    <div class="detail-item">
+                        <span class="icon">👥</span>
+                        <span>Beginners Welcome</span>
+                    </div>
+                </div>
+                <div class="hero-cta">
+                    <a href="#pricing" class="btn btn-primary">Enroll Now</a>
+                    <a href="#curriculum" class="btn btn-secondary">View Curriculum</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section">
+        <div class="container">
+            <h2 class="section-title">About the Course</h2>
+            <div class="about-grid">
+                <div class="about-card">
+                    <div class="card-icon">🚀</div>
+                    <h3>AI-Powered Development</h3>
+                    <p>Learn to leverage AI coding assistants like GitHub Copilot, Cursor AI, and ChatGPT to supercharge your development workflow.</p>
+                </div>
+                <div class="about-card">
+                    <div class="card-icon">🤖</div>
+                    <h3>Build AI Agents</h3>
+                    <p>Create intelligent agents that automate development tasks, from code review to testing and documentation.</p>
+                </div>
+                <div class="about-card">
+                    <div class="card-icon">💡</div>
+                    <h3>Hands-On Projects</h3>
+                    <p>Build real-world projects including AI-assisted applications and your own development AI agents.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Course Parts Section -->
+    <section class="section bg-alt">
+        <div class="container">
+            <h2 class="section-title">Course Structure</h2>
+            <div class="parts-grid">
+                <div class="part-card">
+                    <div class="part-header">
+                        <h3>Part 1: Vibe Coding Basics</h3>
+                        <span class="part-time">10:00-12:00 PM GMT</span>
+                    </div>
+                    <ul class="part-topics">
+                        <li>Introduction to AI-Powered Development</li>
+                        <li>Working with AI Coding Tools</li>
+                        <li>Practical Vibe Coding Techniques</li>
+                        <li>Hands-On Lab: Build Your First AI-Assisted Project</li>
+                    </ul>
+                </div>
+                <div class="part-card">
+                    <div class="part-header">
+                        <h3>Part 2: AI Agents + Tools</h3>
+                        <span class="part-time">10:00-12:00 PM GMT</span>
+                    </div>
+                    <ul class="part-topics">
+                        <li>Introduction to AI Agents</li>
+                        <li>Building AI Agents with LangChain</li>
+                        <li>AI Tools Ecosystem</li>
+                        <li>Advanced Agent Patterns</li>
+                        <li>Hands-On Lab: Build a Development AI Agent</li>
+                        <li>Best Practices & Future Trends</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Curriculum Section -->
+    <section id="curriculum" class="section">
+        <div class="container">
+            <h2 class="section-title">What You'll Learn</h2>
+            <div class="curriculum-grid">
+                <div class="curriculum-item">
+                    <span class="number">01</span>
+                    <h4>AI Coding Fundamentals</h4>
+                    <p>Master the basics of AI-powered coding and understand how to work effectively with AI assistants.</p>
+                </div>
+                <div class="curriculum-item">
+                    <span class="number">02</span>
+                    <h4>Prompt Engineering</h4>
+                    <p>Learn to write effective prompts that generate high-quality code and solutions.</p>
+                </div>
+                <div class="curriculum-item">
+                    <span class="number">03</span>
+                    <h4>AI Agent Development</h4>
+                    <p>Build intelligent agents that automate development workflows and improve productivity.</p>
+                </div>
+                <div class="curriculum-item">
+                    <span class="number">04</span>
+                    <h4>Tools & Ecosystem</h4>
+                    <p>Explore the AI tools landscape including testing, documentation, and CI/CD integration.</p>
+                </div>
+                <div class="curriculum-item">
+                    <span class="number">05</span>
+                    <h4>Best Practices</h4>
+                    <p>Learn ethical AI use, security considerations, and how to stay updated with AI trends.</p>
+                </div>
+                <div class="curriculum-item">
+                    <span class="number">06</span>
+                    <h4>Real Projects</h4>
+                    <p>Build two major projects: an AI-assisted application and a custom development agent.</p>
+                </div>
+            </div>
+            <div class="text-center mt-40">
+                <a href="modules.html" class="btn btn-primary">View Full Curriculum</a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Learning Outcomes -->
+    <section class="section bg-alt">
+        <div class="container">
+            <h2 class="section-title">Learning Outcomes</h2>
+            <div class="outcomes-grid">
+                <div class="outcome-item">
+                    <span class="check-icon">✅</span>
+                    <p>Understand fundamentals of AI-powered coding</p>
+                </div>
+                <div class="outcome-item">
+                    <span class="check-icon">✅</span>
+                    <p>Use AI coding assistants effectively in daily development</p>
+                </div>
+                <div class="outcome-item">
+                    <span class="check-icon">✅</span>
+                    <p>Build and deploy AI agents for development tasks</p>
+                </div>
+                <div class="outcome-item">
+                    <span class="check-icon">✅</span>
+                    <p>Integrate AI tools into your development workflow</p>
+                </div>
+                <div class="outcome-item">
+                    <span class="check-icon">✅</span>
+                    <p>Apply best practices for responsible AI use</p>
+                </div>
+                <div class="outcome-item">
+                    <span class="check-icon">✅</span>
+                    <p>Build a portfolio of AI-assisted projects</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Pricing Section -->
+    <section id="pricing" class="section">
+        <div class="container">
+            <h2 class="section-title">Enroll Today</h2>
+            <div class="pricing-grid">
+                <!-- Free Tier -->
+                <div class="pricing-card">
+                    <div class="pricing-header">
+                        <h3>Access Course Materials</h3>
+                        <div class="price">
+                            <span class="amount">Free</span>
+                        </div>
+                    </div>
+                    <ul class="features-list">
+                        <li>✅ Access to all module content</li>
+                        <li>✅ Code examples and templates</li>
+                        <li>✅ GitHub repository access</li>
+                        <li>✅ Self-paced learning</li>
+                        <li>❌ Live sessions</li>
+                        <li>❌ Instructor support</li>
+                        <li>❌ Certificate</li>
+                    </ul>
+                    <a href="https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers" class="btn btn-secondary" target="_blank">Access on GitHub</a>
+                </div>
+
+                <!-- Paid Tier -->
+                <div class="pricing-card featured">
+                    <div class="badge">Most Popular</div>
+                    <div class="pricing-header">
+                        <h3>Full Course Access</h3>
+                        <div class="price">
+                            <span class="currency">$</span>
+                            <span class="amount">99</span>
+                        </div>
+                    </div>
+                    <ul class="features-list">
+                        <li>✅ All free tier features</li>
+                        <li>✅ Live sessions (2 x 2 hours)</li>
+                        <li>✅ Hands-on labs with instructor</li>
+                        <li>✅ Q&A and support</li>
+                        <li>✅ Code review and feedback</li>
+                        <li>✅ Certificate of completion</li>
+                        <li>✅ Lifetime access to recordings</li>
+                        <li>✅ Community access</li>
+                    </ul>
+                    <button id="checkout-button" class="btn btn-primary">Enroll Now</button>
+                </div>
+
+                <!-- Enterprise Tier -->
+                <div class="pricing-card">
+                    <div class="pricing-header">
+                        <h3>Team/Enterprise</h3>
+                        <div class="price">
+                            <span class="amount">Custom</span>
+                        </div>
+                    </div>
+                    <ul class="features-list">
+                        <li>✅ All full course features</li>
+                        <li>✅ Custom scheduling</li>
+                        <li>✅ Private sessions</li>
+                        <li>✅ Company-specific examples</li>
+                        <li>✅ Extended support</li>
+                        <li>✅ Team licenses</li>
+                        <li>✅ Custom modules</li>
+                    </ul>
+                    <a href="#contact" class="btn btn-secondary">Contact Us</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Instructor Section -->
+    <section class="section bg-alt">
+        <div class="container">
+            <h2 class="section-title">Your Instructor</h2>
+            <div class="instructor-card">
+                <div class="instructor-info">
+                    <h3>Madhusudhan Konda</h3>
+                    <p class="instructor-title">AI & Software Development Expert</p>
+                    <p class="instructor-bio">
+                        Madhusudhan Konda is an experienced software developer and educator with expertise in AI-powered development tools and practices. He has helped hundreds of developers transition to AI-assisted coding workflows and build intelligent automation systems.
+                    </p>
+                    <div class="instructor-links">
+                        <a href="https://chocolateminds.com/ai" target="_blank" class="btn btn-secondary">Visit Website</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="section">
+        <div class="container">
+            <h2 class="section-title">Get in Touch</h2>
+            <div class="contact-content">
+                <p>Have questions? Want to learn more? Reach out to us!</p>
+                <div class="contact-links">
+                    <a href="https://chocolateminds.com/ai" class="contact-link">🌐 Website</a>
+                    <a href="https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers" class="contact-link">💻 GitHub</a>
+                    <a href="https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers/issues" class="contact-link">📧 Contact</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 AI 101: Vibe Coding for Software Developers. All rights reserved.</p>
+            <p>Created by <a href="https://chocolateminds.com/ai" target="_blank">Madhusudhan Konda</a></p>
+        </div>
+    </footer>
+
+    <!-- Stripe Integration Script -->
+    <script src="assets/js/stripe-integration.js"></script>
+</body>
+</html>
