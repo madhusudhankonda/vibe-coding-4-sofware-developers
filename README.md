@@ -6,10 +6,11 @@ A hands-on, beginner-friendly course designed to teach software developers how t
 
 ## 🎓 Course Format
 
-- **Part 1: Vibe Coding Basics** - 2-hour live session
-- **Part 2: Building Real Apps with AI** - 2-hour live session
+The course is divided into two parts:
+- **Part 1: Vibe Coding Basics**
+- **Part 2: Building Real Apps with AI**
 
-> Courses run regularly. Check website for upcoming schedules.
+> Courses run regularly. Contact for upcoming schedules.
 
 ## 🎯 Course Objectives
 
