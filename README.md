@@ -6,8 +6,8 @@ A hands-on, beginner-friendly course designed to teach software developers how t
 
 ## 📅 Course Schedule
 
-- **Part 1: Vibe Coding Basics** - 21st Feb 2026, 10:00-12:00 PM GMT
-- **Part 2: Building Real Apps with AI** - 21st Feb 2026, 10:00-12:00 PM GMT
+- **Part 1: Vibe Coding Basics** - 21st Feb 2026
+- **Part 2: Building Real Apps with AI** - 21st Feb 2026
 
 ## 🎯 Course Objectives
 
