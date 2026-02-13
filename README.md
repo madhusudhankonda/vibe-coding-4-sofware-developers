@@ -2,28 +2,29 @@
 
 **By Madhusudhan Konda**
 
-A hands-on, beginner-friendly course designed to teach software developers the fundamentals of AI-powered coding using modern AI tools and agents.
+A hands-on, beginner-friendly course designed to teach software developers how to transform ideas into applications using AI-powered coding tools.
 
 ## 📅 Course Schedule
 
 - **Part 1: Vibe Coding Basics** - 21st Feb 2026, 10:00-12:00 PM GMT
-- **Part 2: AI Agents + Tools** - 21st Feb 2026, 10:00-12:00 PM GMT
+- **Part 2: Building Real Apps with AI** - 21st Feb 2026, 10:00-12:00 PM GMT
 
 ## 🎯 Course Objectives
 
-- Master the fundamentals of AI-powered coding (Vibe Coding)
-- Learn to work effectively with AI coding assistants
-- Understand and build AI agents for software development
-- Apply AI tools to real-world development scenarios
-- Develop hands-on experience with modern AI development workflows
+- Master AI-powered coding with tools like GitHub Copilot and Cursor
+- Transform ideas into working applications quickly
+- Learn prompt engineering for developers
+- Build full-stack applications with AI assistance
+- Apply best practices for AI-assisted development
+- Go from concept to deployed app in hours, not weeks
 
 ## 👥 Target Audience
 
 This course is designed for:
 - Software developers new to AI-powered coding
-- Engineers looking to enhance productivity with AI tools
-- Developers interested in integrating AI into their workflow
-- Anyone wanting to understand the basics of AI agents and tools
+- Engineers looking to build faster with AI tools
+- Developers who want to turn ideas into apps quickly
+- Anyone interested in modern, AI-assisted development workflows
 
 ## 📚 Course Prerequisites
 
@@ -76,62 +77,61 @@ This course is designed for:
 
 ---
 
-### Part 2: AI Agents + Tools
+### Part 2: Building Real Apps with AI
 
-#### Module 5: Introduction to AI Agents
-- What are AI agents?
-- Types of AI agents in software development
-- Agent architectures and patterns
-- Use cases for AI agents in development
+#### Module 5: From Idea to Architecture
+- Turning ideas into requirements with AI
+- System design with AI assistance
+- Choosing the right tech stack
+- Database design and modeling
+- API design and planning
 
-#### Module 6: Building AI Agents
-- Agent frameworks and libraries
-  - LangChain
-  - AutoGPT concepts
-  - Custom agent development
-- Agent components:
-  - Memory systems
-  - Tool integration
-  - Decision-making logic
-  - Execution loops
+#### Module 6: Building Full-Stack Applications
+- Setting up project structure with AI
+- Creating RESTful APIs
+- Database integration and queries
+- Authentication and authorization
+- Building with modern frameworks
 
-#### Module 7: AI Tools Ecosystem
-- Code analysis tools
-- Automated testing agents
-- Documentation generators
-- CI/CD integration with AI
-- Monitoring and logging agents
+#### Module 7: Frontend Development with AI
+- Component-based development
+- UI/UX with AI assistance
+- Responsive design
+- State management
+- Connecting frontend to backend
 
-#### Module 8: Advanced AI Agent Patterns
-- Multi-agent systems
-- Agent collaboration patterns
-- Error handling and recovery
+#### Module 8: Testing & Quality Assurance
+- Writing tests with AI
+- Test-driven development
+- Integration testing
+- Debugging complex issues
+- Code quality and refactoring
+
+#### Module 9: Deployment & DevOps
+- Preparing for production
+- Deployment strategies
+- CI/CD pipelines with AI
+- Monitoring and logging
 - Performance optimization
-- Security considerations
 
-#### Module 9: Hands-On Lab - Building a Development AI Agent
-- Designing an agent for a specific task
-- Implementing agent logic
-- Integrating external tools and APIs
-- Testing and debugging agents
-- Deploying your agent
-
-#### Module 10: Best Practices & Future of AI in Development
-- AI coding ethics and responsible AI use
-- Limitations and challenges
+#### Module 10: Best Practices & Real-World Tips
+- AI coding ethics and responsible use
+- Limitations and when to code manually
 - Staying updated with AI tools
-- Future trends in AI-powered development
-- Building a personal AI development toolkit
+- Building a personal development workflow
+- Tips for continuous learning
 
 ---
 
 ## 🛠️ Tools & Technologies Covered
 
 - **AI Coding Assistants**: GitHub Copilot, Cursor, ChatGPT
-- **Programming Languages**: Python, JavaScript (examples)
-- **AI Frameworks**: LangChain, OpenAI API
-- **Development Tools**: Git, VS Code, IDEs with AI integration
-- **Testing Tools**: AI-powered testing frameworks
+- **Programming Languages**: Python, JavaScript/TypeScript
+- **Backend**: Node.js, Express, FastAPI
+- **Frontend**: React, Next.js
+- **Database**: PostgreSQL, MongoDB
+- **Deployment**: Vercel, Railway, Docker
+- **Testing**: Jest, Pytest, AI-powered testing
 
 ## 📂 Repository Structure
 
@@ -146,12 +146,12 @@ This course is designed for:
 ├── module-02-ai-coding-tools/       # AI Coding Tools
 ├── module-03-vibe-techniques/       # Vibe Coding Techniques
 ├── module-04-lab-project/           # Hands-on Project Lab
-├── module-05-ai-agents-intro/       # Introduction to AI Agents
-├── module-06-building-agents/       # Building AI Agents
-├── module-07-tools-ecosystem/       # AI Tools Ecosystem
-├── module-08-advanced-patterns/     # Advanced Agent Patterns
-├── module-09-lab-agent/             # Building Development Agent Lab
-├── module-10-best-practices/        # Best Practices & Future
+├── module-05-idea-to-architecture/  # From Idea to Architecture
+├── module-06-fullstack-development/ # Building Full-Stack Apps
+├── module-07-frontend-with-ai/      # Frontend Development
+├── module-08-testing-qa/            # Testing & Quality
+├── module-09-deployment/            # Deployment & DevOps
+├── module-10-best-practices/        # Best Practices & Tips
 ├── examples/                        # Code examples and demos
 ├── resources/                       # Additional learning resources
 └── projects/                        # Student project templates
@@ -160,19 +160,19 @@ This course is designed for:
 ## 📝 Assessment & Certification
 
 - Hands-on labs and practical exercises
-- Two major projects (one per part)
-- Peer code reviews
-- Final project: Build your own AI-powered development tool
+- Two major projects: Turn your ideas into working apps
+- Code review sessions
+- Final project: Build and deploy a complete application
 
 ## 💡 Learning Outcomes
 
 By the end of this course, you will:
-- ✅ Understand the fundamentals of AI-powered coding
-- ✅ Effectively use AI coding assistants in daily development
-- ✅ Build and deploy AI agents for development tasks
-- ✅ Integrate AI tools into your development workflow
-- ✅ Apply best practices for responsible AI use in coding
-- ✅ Have a portfolio of AI-assisted projects
+- ✅ Turn ideas into working applications quickly
+- ✅ Use AI coding tools effectively in daily development
+- ✅ Build full-stack applications with AI assistance
+- ✅ Deploy production-ready apps
+- ✅ Apply best practices for AI-assisted coding
+- ✅ Have a portfolio of real applications you've built
 
 ## 🤝 Contributing
 
