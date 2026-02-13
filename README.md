@@ -4,10 +4,12 @@
 
 A hands-on, beginner-friendly course designed to teach software developers how to transform ideas into applications using AI-powered coding tools.
 
-## 📅 Course Schedule
+## 🎓 Course Format
 
-- **Part 1: Vibe Coding Basics** - 21st Feb 2026
-- **Part 2: Building Real Apps with AI** - 21st Feb 2026
+- **Part 1: Vibe Coding Basics** - 2-hour live session
+- **Part 2: Building Real Apps with AI** - 2-hour live session
+
+> Courses run regularly. Check website for upcoming schedules.
 
 ## 🎯 Course Objectives
 
