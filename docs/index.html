@@ -265,17 +265,64 @@
             <div class="instructor-card">
                 <div class="instructor-info">
                     <h3>Madhusudhan Konda</h3>
-                    <p class="instructor-title">AI & Software Development Expert</p>
+                    <p class="instructor-title">AI Lead & Seasoned Educator</p>
+                    
+                    <!-- Short Bio -->
                     <p class="instructor-bio">
-                        Madhusudhan Konda is an experienced software developer and educator specializing in AI-powered development. He helps developers learn to build applications faster using modern AI coding tools, transforming ideas into production-ready apps.
+                        Madhusudhan Konda is an AI Lead and seasoned trainer/educator. He helps developers build apps faster with modern AI coding tools and practical engineering practices. With over two decades spent architecting scalable applications and leading engineering teams, Madhusudhan combines hands-on technical expertise with a passion for teaching and mentorship.
                     </p>
-                    <div class="instructor-links">
+                    
+                    <!-- Expandable Full Bio -->
+                    <div id="full-bio" style="display: none;">
+                        <p class="instructor-bio">
+                            He helps developers unlock the next frontier of productivity by integrating modern AI coding assistants into everyday workflows - from rapid prototyping to production-ready applications. In this course, he shares practical techniques, proven patterns, and real-world insights that empower developers to build with confidence, speed, and quality in the era of AI-assisted software development.
+                        </p>
+                        <p class="instructor-bio">
+                            Madhusudhan believes the future of development blends human creativity with AI-assisted workflows. He teaches developers not just how to use AI tools, but how to think differently - to transform ideas into deployed software faster and more confidently than ever before.
+                        </p>
+                    </div>
+                    
+                    <!-- Read More Button -->
+                    <button id="read-more-btn" onclick="toggleBio()" style="
+                        background: transparent;
+                        border: 2px solid var(--primary-color);
+                        color: var(--primary-color);
+                        padding: 0.5rem 1.5rem;
+                        border-radius: 0.5rem;
+                        font-weight: 600;
+                        cursor: pointer;
+                        margin-top: 1rem;
+                        transition: all 0.3s ease;
+                    ">
+                        Read More
+                    </button>
+                    
+                    <div class="instructor-links" style="margin-top: 2rem;">
                         <a href="https://chocolateminds.com/ai" target="_blank" class="btn btn-secondary">Visit Website</a>
                     </div>
                 </div>
             </div>
         </div>
     </section>
+
+    <script>
+        function toggleBio() {
+            const fullBio = document.getElementById('full-bio');
+            const btn = document.getElementById('read-more-btn');
+            
+            if (fullBio.style.display === 'none') {
+                fullBio.style.display = 'block';
+                btn.textContent = 'Read Less';
+                btn.style.background = 'var(--primary-color)';
+                btn.style.color = 'white';
+            } else {
+                fullBio.style.display = 'none';
+                btn.textContent = 'Read More';
+                btn.style.background = 'transparent';
+                btn.style.color = 'var(--primary-color)';
+            }
+        }
+    </script>
 
     <!-- Contact Section -->
     <section id="contact" class="section">
