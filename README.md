@@ -38,9 +38,9 @@ This course is designed for:
 
 ## 🔗 Resources
 
-- **Course Website**: [View Live Site](https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/)
+- **Course Website**: [View Live Site](https://madhusudhankonda.github.io/ai/)
 - **Website**: [chocolateminds.com/ai](https://chocolateminds.com/ai)
-- **Repository**: [GitHub](https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers)
+- **Repository**: [GitHub](https://github.com/madhusudhankonda/ai)
 
 > 🌐 **New!** Check out our beautiful course website with enrollment options!
 
@@ -185,7 +185,7 @@ We welcome contributions! Please see our contributing guidelines for more inform
 
 For questions or support, please reach out through:
 - Website: [chocolateminds.com/ai](https://chocolateminds.com/ai)
-- GitHub Issues: [Report an issue](https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers/issues)
+- GitHub Issues: [Report an issue](https://github.com/madhusudhankonda/ai/issues)
 
 ## 📄 License
 

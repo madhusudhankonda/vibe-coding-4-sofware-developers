@@ -5,7 +5,7 @@
 ### Method 1: Free Online Tools
 
 **1. QR Code Generator** (https://www.qr-code-generator.com/)
-- Paste URL: `https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers`
+- Paste URL: `https://madhusudhankonda.github.io/ai`
 - Choose "URL" type
 - Customize colors (use your brand colors)
 - Download as PNG or SVG (high quality for print)

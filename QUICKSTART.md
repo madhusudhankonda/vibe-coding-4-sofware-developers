@@ -6,7 +6,7 @@ Follow these simple steps to make your course website live!
 
 1. **Go to your repository**:
    ```
-   https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers
+   https://github.com/madhusudhankonda/ai
    ```
 
 2. **Click Settings** (top navigation bar)
@@ -26,7 +26,7 @@ Follow these simple steps to make your course website live!
 
 Your site will be live at:
 ```
-https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+https://madhusudhankonda.github.io/ai/
 ```
 
 ## Step 3: Set Up Payments (Optional)

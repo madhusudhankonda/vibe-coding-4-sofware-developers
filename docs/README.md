@@ -6,7 +6,7 @@ This folder contains the GitHub Pages website for the AI 101: Vibe Coding for So
 
 Once deployed, the site will be available at:
 ```
-https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+https://madhusudhankonda.github.io/ai/
 ```
 
 ## 📁 Structure

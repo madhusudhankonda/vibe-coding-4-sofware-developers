@@ -19,7 +19,7 @@ You've already created your Stripe product! Here's how to connect it to your web
 
 3. **Configure the payment link:**
    ```
-   Success URL: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/success.html
+   Success URL: https://madhusudhankonda.github.io/ai/success.html
    
    After payment: Redirect to success URL
    
@@ -146,7 +146,7 @@ In Stripe Dashboard:
    Course Date: 21st February 2026, 10:00-12:00 GMT
    
    Access course materials:
-   https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers
+   https://github.com/madhusudhankonda/ai
    
    You will receive joining instructions 1 week before the course.
    ```

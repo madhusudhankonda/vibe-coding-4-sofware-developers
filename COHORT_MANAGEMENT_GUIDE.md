@@ -85,7 +85,7 @@ We'll be in touch soon with:
 - Pre-course materials
 
 In the meantime:
-- GitHub: https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers
+- GitHub: https://github.com/madhusudhankonda/ai
 - Website: https://chocolateminds.com/ai
 
 Questions? Just reply to this email.

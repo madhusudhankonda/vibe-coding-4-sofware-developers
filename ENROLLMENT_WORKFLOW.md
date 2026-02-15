@@ -118,7 +118,7 @@ Price: £50 (one-time payment)
 4. Day of course: Zoom link and final details
 
 🔗 COURSE MATERIALS (Available Now):
-GitHub: https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers
+GitHub: https://github.com/madhusudhankonda/ai
 
 Questions? Just reply to this email!
 

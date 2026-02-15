@@ -27,7 +27,7 @@ After 20+ years architecting scalable applications and leading engineering teams
 
 No fluff. Just practical techniques you can use tomorrow.
 
-🔗 https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+🔗 https://madhusudhankonda.github.io/ai/
 
 Built something cool with AI coding tools? Drop it in the comments - I'd love to see what you're creating! 👇
 
@@ -61,7 +61,7 @@ That's what AI 101: Vibe Coding for Software Developers solves.
 
 Learn to transform ideas into deployed applications. Fast.
 
-Enroll: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+Enroll: https://madhusudhankonda.github.io/ai/
 
 The future of development isn't AI replacing developers.
 It's developers with AI replacing developers without AI.
@@ -85,7 +85,7 @@ AI 101: Vibe Coding for Software Developers
 
 No theory. Just build.
 
-Learn more: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+Learn more: https://madhusudhankonda.github.io/ai/
 
 #AITools #SoftwareDevelopment #Developers
 ```
@@ -119,7 +119,7 @@ Real applications with databases, APIs, frontends, and deployment.
 
 The goal isn't to replace your skills - it's to 10x them.
 
-Course info: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+Course info: https://madhusudhankonda.github.io/ai/
 
 Happy to answer questions! AMA about AI-assisted development.
 ```
@@ -145,7 +145,7 @@ I created AI 101: Vibe Coding to teach the practical side - not the hype.
 
 Real builds. Production-ready code. Knowing when AI helps vs when it hurts.
 
-Details: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+Details: https://madhusudhankonda.github.io/ai/
 
 Curious what others have found: What's your best use case for AI coding tools? What's been overhyped?
 ```
@@ -172,7 +172,7 @@ Covers:
 
 Not about prompt engineering or building chatbots. About building real web apps faster.
 
-Course: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+Course: https://madhusudhankonda.github.io/ai/
 
 Stack: Python/JS, React, Node.js, PostgreSQL - but concepts apply to any stack.
 
@@ -219,7 +219,7 @@ The skill isn't "prompting."
 The skill is knowing when to use AI vs when to think.
 
 Tweet 5:
-I built a course teaching this: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+I built a course teaching this: https://madhusudhankonda.github.io/ai/
 
 Not theory. Real apps. Production-ready code.
 
@@ -275,7 +275,7 @@ What you'll learn:
 
 Not about the hype. About building real apps, fast.
 
-Course info: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+Course info: https://madhusudhankonda.github.io/ai/
 
 Who's already using AI coding tools? What's been your experience? 👇
 ```
@@ -287,7 +287,7 @@ Who's already using AI coding tools? What's been your experience? 👇
 ```
 Title: AI 101: Vibe Coding for Software Developers – Building Apps with AI Tools
 
-URL: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+URL: https://madhusudhankonda.github.io/ai/
 
 I'm an AI Lead who spent the last year helping developers integrate AI coding tools into their workflows.
 
@@ -335,7 +335,7 @@ I've been teaching developers to use AI coding tools effectively. Here's what wo
 
 Teaching this in my new course: AI 101 - Vibe Coding for Software Developers
 
-[Read more →] https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+[Read more →] https://madhusudhankonda.github.io/ai/
 ```
 
 ---
@@ -363,7 +363,7 @@ AI 101: Vibe Coding course - from idea to deployed app.
 
 Practical, hands-on, no fluff.
 
-https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+https://madhusudhankonda.github.io/ai/
 ```
 
 **Elevator Pitch:**

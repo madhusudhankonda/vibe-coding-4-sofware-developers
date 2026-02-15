@@ -18,7 +18,7 @@ This guide will help you set up GitHub Pages for your course website and integra
 
 1. Go to your repository on GitHub:
    ```
-   https://github.com/madhusudhankonda/vibe-coding-4-sofware-developers
+   https://github.com/madhusudhankonda/ai
    ```
 
 2. Click on **Settings** (top right)
@@ -33,7 +33,7 @@ This guide will help you set up GitHub Pages for your course website and integra
 
 6. Your site will be published at:
    ```
-   https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/
+   https://madhusudhankonda.github.io/ai/
    ```
 
 ### Step 2: Verify Deployment
@@ -87,7 +87,7 @@ If you want to use a custom domain like `course.chocolateminds.com`:
    - **Collect customer addresses**: Optional (enable if you need it)
    - **Collect phone numbers**: Optional
    - **After payment**: Choose "Show confirmation page" or redirect to success page
-   - **Success URL**: `https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/success.html`
+   - **Success URL**: `https://madhusudhankonda.github.io/ai/success.html`
 3. Click **Create link**
 4. Copy your Payment Link URL (looks like: `https://buy.stripe.com/xxxxx`)
 
@@ -109,7 +109,7 @@ Replace the checkout button in `docs/index.html`:
 
 In the Payment Link settings, set:
 - **Success URL**: Your GitHub Pages URL + `/success.html`
-- Example: `https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/success.html`
+- Example: `https://madhusudhankonda.github.io/ai/success.html`
 
 ### Step 5: Test!
 

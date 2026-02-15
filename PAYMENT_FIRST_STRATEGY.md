@@ -53,7 +53,7 @@ If they don't: You email them using Stripe email
 4. **Set "After payment" → "Redirect to a page"**
 5. **Success URL**: 
    ```
-   https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/success.html
+   https://madhusudhankonda.github.io/ai/success.html
    ```
 6. **Save**
 

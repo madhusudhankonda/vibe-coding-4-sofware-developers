@@ -43,7 +43,7 @@ Thank you for enrolling in AI 101: Vibe Coding for Software Developers!
 NEXT STEP: Complete your enrollment
 👉 Click here to pay now (£50): https://buy.stripe.com/9B614o3STbCg9Ph4DUcV200
 
-Or visit: https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/registered.html
+Or visit: https://madhusudhankonda.github.io/ai/registered.html
 
 ✅ You'll also receive an email within 24 hours with:
 - Cohort dates
@@ -70,7 +70,7 @@ If you want automatic redirect, you'll need to:
    - Go to Bitly, TinyURL, or similar
    - Create short link that redirects to:
    ```
-   https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/registered.html
+   https://madhusudhankonda.github.io/ai/registered.html
    ```
    - Example: `bit.ly/ai101-thanks`
 
@@ -106,7 +106,7 @@ Click here to pay now (£50):
 https://buy.stripe.com/9B614o3STbCg9Ph4DUcV200
 
 Or visit this page for more details:
-https://madhusudhankonda.github.io/vibe-coding-4-sofware-developers/registered.html
+https://madhusudhankonda.github.io/ai/registered.html
 
 What happens after payment:
 ✅ Immediate confirmation email
