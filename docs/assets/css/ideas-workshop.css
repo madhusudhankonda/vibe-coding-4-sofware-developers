@@ -526,4 +526,20 @@ body {
     .courses-preview {
         grid-template-columns: 1fr;
     }
+    
+    /* Better mobile button sizes */
+    .btn {
+        min-height: 48px;
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        -webkit-tap-highlight-color: transparent;
+        touch-action: manipulation;
+    }
+    
+    .btn-large {
+        min-height: 56px;
+        width: 100%;
+        max-width: 100%;
+    }
 }
